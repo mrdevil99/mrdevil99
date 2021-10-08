@@ -34,13 +34,11 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/mrdevil99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdevil99&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevil99&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -48,10 +46,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.Badal.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Badal.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mrdevil/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Badal%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/_mrdevil0_9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_mrdevil0_9__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:badalbarsa007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Badalbarsa007@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508
